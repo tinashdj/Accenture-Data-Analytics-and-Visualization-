@@ -28,6 +28,9 @@ to prove to them that we are the best firm to work with. They are expecting the 
 largest aggregate popularity
 
 ## Insights and Recommendations:
+
+<img width="1106" alt="Screenshot 2023-08-29 104946" src="https://github.com/tinashdj/Accenture-Data-Analytics-and-Visualization-/assets/110084624/e35a11ce-4fa7-43ab-9b51-2a14696d91b9">
+
 - There are 16 type categories of content that uploaded. The top 5 categories are animal, science, healthy eating, technology and food. The top content which is animal showing that probably people enjoy content that involved real life, nature or the habits of animal content.
 - Food is the common category within the top 5 categories. There are “healthy eating” and “food” categories in the top 5, that can be indicated as the audience preference. Create a specific strategy with food category to increase audience/user engagement.
 - May is the month with most uploaded posts. Explore the reasons behind the peak in May's posting activity. If it's related to holidays or special occasions, plan targeted campaigns around those periods to enhance user engagement and participation.
