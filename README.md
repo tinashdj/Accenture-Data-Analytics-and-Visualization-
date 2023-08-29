@@ -1,5 +1,6 @@
 # Project Brief
-**Client name:** Social Buzz 
+**Client name:** Social Buzz
+
 **Client industry:** Social media & content creation
 
 ## Client Background: 
