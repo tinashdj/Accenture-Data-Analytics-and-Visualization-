@@ -17,9 +17,7 @@ their scaling process effectively.
 Due to their rapid growth and digital nature of their core product, the amount of data that they 
 create, collect and must analyze is huge. Every day over 100,000 pieces of content, ranging 
 from text, images, videos and GIFs are posted. All of this data is highly unstructured and 
-requires extremely sophisticated and expensive technology to manage and maintain. Out of the 
-250 people working at Social Buzz, 200 of them are technical staff working on maintaining this 
-highly complex technology.
+requires extremely sophisticated and expensive technology to manage and maintain.
 
 ## Client Request:
 To start our engagement with Social Buzz, we are running a 3 month initial project in order 
